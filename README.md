@@ -1,1 +1,1 @@
-# opencv-animal-faces-detection
+# Detecting Animal Faces using OpenCV
