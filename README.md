@@ -7,7 +7,7 @@ This repo includes basic Haar Cascade XML files and Python scripts to detect spe
 
 ## Project Structure
 
-- **`data/`**: Contains the dataset used for analysis and prediction.
+- **`cascades/`**: Haar Cascade XML files for animal face detection.
 - **`notebooks/`**: Jupyter notebooks for data analysis, feature engineering, and model building.
 - **`requirements.txt`**: List of required Python packages
 - **`LICENSE`**: MIT License file
